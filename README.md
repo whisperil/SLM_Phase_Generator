@@ -1,6 +1,6 @@
 # SLM Hologram Generation System (SLM-HGS)
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/YourUsername/YourRepo/releases)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/whisperil/SLM_Phase_Generator/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
